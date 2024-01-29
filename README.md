@@ -1,3 +1,3 @@
 # ColobusAPKMod
 
-Godmode for colobus
+an apk mod for colobus
